@@ -1,0 +1,4 @@
+paulo\converters\EntityConverter.class
+paulo\entities\Paulo.class
+paulo\controllers\PauloBean.class
+paulo\persistence\JPAUtil.class
